@@ -17,6 +17,7 @@
 
 • **Multi-AI Support** - Integrates all major LLMs: OpenAI, Anthropic, Google, xAI, Ollama, and more  
 • **Powerful Tools** - MCP protocol, web search, JS/Python code execution, data visualization  
+• **Image Generation** - Create and edit images with AI models (OpenAI, Google Gemini, xAI)  
 • **Automation** - Custom agents, visual workflows, artifact generation  
 • **Collaboration** - Share agents, workflows, and MCP configurations with your team  
 • **Voice Assistant** - Realtime voice chat with full MCP tool integration  
@@ -215,7 +216,7 @@ Built-in web search powered by [Exa AI](https://exa.ai). Search the web with sem
 Built-in image generation and editing capabilities powered by AI models. Create, edit, and modify images directly in your chats.
 
 - **Supported Operations:** Image generation, editing, and composition
-- **Current Models:** Gemini Nano Banana, OpenAI (coming soon)
+- **Current Models:** Gemini Nano Banana, OpenAI
 
 #### ⚡️ JS,PYTHON Executor
 
