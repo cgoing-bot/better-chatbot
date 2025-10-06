@@ -10,8 +10,8 @@
 
 #### Demo Chats
 
-- **MCP Tools Demo:** [Chat with MCP Tools](https://better-chatbot-demo.vercel.app/export/a4820921-8012-496b-8a5d-13757050bafe)
-- **Image Generation Demo:** [Chat with Image Generation](https://better-chatbot-demo.vercel.app/export/image-generation-demo-12345)
+- **MCP Tools Demo:** [Chat with Tools](https://better-chatbot-demo.vercel.app/export/a4820921-8012-496b-8a5d-13757050bafe)
+- **Image Generation Demo:** [Chat with Image Generation](https://better-chatbot-demo.vercel.app/export/452ad745-9efb-49ae-9114-10db15f1b827)
 
 **Better Chatbot** - A better open-source AI chatbot for individuals and teams, inspired by ChatGPT, Claude, Grok, and Gemini.
 
@@ -210,7 +210,7 @@ Built-in web search powered by [Exa AI](https://exa.ai). Search the web with sem
 
 #### 🎨 Image Generation
 
-<img width="1034" height="940" loading="lazy" alt="image-generation" src="https://github.com/user-attachments/assets/placeholder-image" />
+<img width="1034" height="940" loading="lazy" alt="image-generation" src="https://github.com/user-attachments/assets/b081c837-8948-4f4d-a2f4-c8630cf0eaa2" />
 
 Built-in image generation and editing capabilities powered by AI models. Create, edit, and modify images directly in your chats.
 
