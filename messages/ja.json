@@ -74,7 +74,7 @@
   "Chat": {
     "Error": "チャットエラー",
     "thisMessageWasNotSavedPleaseTryTheChatAgain": "このメッセージは保存されませんでした。もう一度チャットをお試しください。",
-    "uploadImage": "画像をアップロード",
+    "uploadImage": "ファイルをアップロード",
     "generateImage": "画像を生成",
     "imageUploadedSuccessfully": "画像が正常にアップロードされました",
     "pleaseUploadImageFile": "画像ファイルをアップロードしてください",

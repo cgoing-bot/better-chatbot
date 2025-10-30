@@ -13,6 +13,16 @@
 - **MCP Tools Demo:** [Chat with Tools](https://better-chatbot-demo.vercel.app/export/a4820921-8012-496b-8a5d-13757050bafe)
 - **Image Generation Demo:** [Chat with Image Generation](https://better-chatbot-demo.vercel.app/export/452ad745-9efb-49ae-9114-10db15f1b827)
 
+## Quick Start 🚀
+
+> **Get your app running in minutes! No installation or payment required.**
+
+You only need **one AI Provider API Key** (OpenAI, Claude, Gemini, etc.). Everything else runs on free tiers - database, file storage, and hosting.
+
+👉 **[Click this guide to deploy your site with just a few clicks](docs/tips-guides/vercel.md)**
+
+---
+
 **Better Chatbot** - A better open-source AI chatbot for individuals and teams, inspired by ChatGPT, Claude, Grok, and Gemini.
 
 • **Multi-AI Support** - Integrates all major LLMs: OpenAI, Anthropic, Google, xAI, Ollama, and more  
@@ -25,45 +35,6 @@
 • **Quick Start** - Deploy free with Vercel Deploy button
 
 Built with Vercel AI SDK and Next.js, combining the best features of leading AI services into one platform.
-
-### Quick Start 🚀
-
-```bash
-# 1. Clone the repository
-
-git clone https://github.com/cgoinglove/better-chatbot.git
-cd better-chatbot
-
-# 2. (Optional) Install pnpm if you don't have it
-
-npm install -g pnpm
-
-# 3. Install dependencies
-
-pnpm i
-
-# 4. (Optional) Start a local PostgreSQL instance
-
-pnpm docker:pg
-
-# If you already have your own PostgreSQL running, you can skip this step.
-# In that case, make sure to update the PostgreSQL URL in your .env file.
-
-# 5. Enter required information in the .env file
-
-# The .env file is created automatically. Just fill in the required values.
-# For the fastest setup, provide at least one LLM provider's API key (e.g., OPENAI_API_KEY, CLAUDE_API_KEY, GEMINI_API_KEY, etc.) and the PostgreSQL URL you want to use.
-
-# 6. Start the server
-
-pnpm build:local && pnpm start
-
-# (Recommended for most cases. Ensures correct cookie settings.)
-# For development mode with hot-reloading and debugging, you can use:
-# pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to get started.
 
 ## Table of Contents
 
@@ -443,6 +414,16 @@ Planned features coming soon to better-chatbot:
 - [ ] **Web-based Compute** (with [WebContainers](https://webcontainers.io) integration)
 
 💡 If you have suggestions or need specific features, please create an [issue](https://github.com/cgoinglove/better-chatbot/issues)!
+
+## 💖 Support
+
+If this project has been helpful to you, please consider supporting its development:
+
+- ⭐ **Star** this repository
+- 🐛 **Report** bugs and suggest features
+- 💰 **[Become a sponsor](https://github.com/sponsors/cgoinglove)** to support ongoing development
+
+Your support helps maintain and improve this project. Thank you! 🙏
 
 ## 🙌 Contributing
 

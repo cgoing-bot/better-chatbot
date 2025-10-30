@@ -74,7 +74,7 @@
   "Chat": {
     "Error": "Error de Chat",
     "thisMessageWasNotSavedPleaseTryTheChatAgain": "Este mensaje no se guardó. Por favor, intenta el chat nuevamente.",
-    "uploadImage": "Subir Imagen",
+    "uploadImage": "Subir archivo",
     "generateImage": "Generar Imagen",
     "imageUploadedSuccessfully": "Imagen subida exitosamente",
     "pleaseUploadImageFile": "Por favor sube un archivo de imagen",

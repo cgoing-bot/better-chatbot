@@ -74,7 +74,7 @@
   "Chat": {
     "Error": "Erreur de Chat",
     "thisMessageWasNotSavedPleaseTryTheChatAgain": "Ce message n'a pas été enregistré. Veuillez réessayer le chat.",
-    "uploadImage": "Télécharger une Image",
+    "uploadImage": "Téléverser un fichier",
     "generateImage": "Générer une Image",
     "imageUploadedSuccessfully": "Image téléchargée avec succès",
     "pleaseUploadImageFile": "Veuillez télécharger un fichier image",
